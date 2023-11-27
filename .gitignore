@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+Material_TP
+Hero
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
